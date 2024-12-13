@@ -16,11 +16,6 @@ I'm a passionate Pythonista driven by an insatiable curiosity for exploring new 
 
 #### GitHub Readme Stats
 
-Here’s how to use the GitHub Readme Stats:
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-vl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on a project for running F1 race simulations.
 - 
@@ -28,7 +23,9 @@ Here’s how to use the GitHub Readme Stats:
 <!--
 **aleksandar-vl/aleksandar-vl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here’s how to use the GitHub Readme Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar-vl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
