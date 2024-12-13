@@ -14,10 +14,7 @@ I'm a passionate Pythonista driven by an insatiable curiosity for exploring new 
 
 ---
 
-
 - 🔭 I’m currently working on a project for running F1 race simulations.
-
-```markdown
 
 <!-- 
 **aleksandar-vl/aleksandar-vl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
