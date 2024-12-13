@@ -1,6 +1,11 @@
 ## Hi there 👋
 I'm a passionate Pythonista driven by an insatiable curiosity for exploring new ideas and solving diverse challenges that currently interest me the most.
 
+### My Interests
+- Python development for backend applications and automation.
+- Building and experimenting with machine learning models for real-world problems.
+- Exploring and visualizing data to uncover trends and insights.
+
 ### Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
