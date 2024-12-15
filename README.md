@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate Pythonista driven by an insatiable curiosity for exploring new ideas and solving diverse challenges that currently interest me the most.
+I'm a passionate Pythonista driven by an insatiable curiosity for exploring new ideas and solving diverse challenges which I find interesting.
 
 ### My Interests
 - Python development for backend applications and automation.
